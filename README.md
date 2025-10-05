@@ -11,6 +11,9 @@ This tool allows you to:
 - **Visual Results**: See highlighted differences in an interactive tree view
 
 ## Screenshots
+<img width="1850" height="758" alt="intial-ui" src="https://github.com/user-attachments/assets/b4997589-46cd-45ff-bf81-662f37c5de1d" />
+
+<img width="1850" height="1742" alt="ui-with-data" src="https://github.com/user-attachments/assets/b1f1f66d-f542-4bbe-a7a8-20a0d9a020b3" />
 
 ## Getting Started
 
